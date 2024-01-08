@@ -3,7 +3,3 @@ def plus_func():
 
 def minus_func():
     return(5-3)
-
-print(plus_func())
-print(minus_func())
-
